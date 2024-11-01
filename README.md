@@ -9,7 +9,6 @@ Welcome to **Happy Website**, a one-page site created to showcase [mention purpo
 ## Features
 
 - **One-Page Layout**: Smooth scrolling sections.
-//- **Responsive Design**: Optimized for various devices and screen sizes.
 - **Custom Animations**: Enhancing user engagement.
 
 ## Tech Stack
